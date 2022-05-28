@@ -1,13 +1,11 @@
-#header {
-  background: #F0FFF0;
-}
-
 .main-btn {
   padding: 10px 30px;
   color: #fff;
   background-color: #21B573;
   border: none;
   border-radius: 500px;
+  font-family: 'Roboto', sans-serif;
+
 }
 
 .nav-item {
@@ -17,4 +15,42 @@
 .nav-link {
   font-weight: 500;
   color: #000;
+  font-family: 'Poppins', sans-serif;
 }
+
+#navbar {
+  background: #F0FFF0;
+}
+
+#home {
+  background: #F0FFF0;
+  padding: 70px 0px;
+}
+
+#home h6 {
+  color: #FD511A;
+}
+
+.home-text h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 70px;
+}
+
+.home-text span {
+  color: #21B573;
+}
+
+.home-text p {
+  padding-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400
+}
+
+/* font name 
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+*/
