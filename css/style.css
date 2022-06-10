@@ -133,6 +133,10 @@
   text-align: center;
 }
 
+.copyright a {
+  color: #ecf0f1;
+}
+
 /* font name 
   font-family: 'Poppins', sans-serif;
   font-family: 'Roboto', sans-serif;
