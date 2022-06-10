@@ -111,22 +111,27 @@
 }
 
 #testimonial img {
-  margin: 40px 0px 40px 160px;
+  margin: 40px 0px 40px 150px;
 }
 
 #footer {
   background-color: #282531;
   color: #ecf0f1;
   font-family: 'Poppins', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 30px;
-  letter-spacing: 0em;
-  text-align: left;
-
+  padding: 50px 0px 50px 0px;
 }
 
+.list-title {
+  font-weight: 800;
+}
 
+.footer-list ul{
+  list-style: none;
+}
+
+.copyright {
+  text-align: center;
+}
 
 /* font name 
   font-family: 'Poppins', sans-serif;
