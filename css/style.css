@@ -1,10 +1,16 @@
 .main-btn {
+  /* margin-top: 10px; */
   padding: 10px 30px;
   color: #fff;
   background-color: #21B573;
   border: none;
   border-radius: 500px;
   font-family: 'Roboto', sans-serif;
+  transition: background-color 0.5s;
+}
+
+.main-btn:hover {
+  background-color: #1b975f;
 }
 
 .section-heading {
@@ -15,8 +21,13 @@
   margin: 40px 0px;
 }
 
+.navbar-brand {
+  margin-right: 130px;
+  box-shadow: none;
+}
+
 .nav-item {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .nav-link {
@@ -38,7 +49,7 @@
   color: #FD511A;
 }
 
-.home-text h1{
+.home-text h1 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
   font-size: 48px;
@@ -101,6 +112,7 @@
   margin: 20px 10px;
   /* font-family: 'Poppins', sans-serif; */
 }
+
 .courses-text h4 {
   font-family: 'Poppins', sans-serif;
 }
@@ -125,7 +137,7 @@
   font-weight: 800;
 }
 
-.footer-list ul{
+.footer-list ul {
   list-style: none;
 }
 
